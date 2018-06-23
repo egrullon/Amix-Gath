@@ -1,9 +1,18 @@
 # information-gathering
 
-Under the GPLv3 Terms (General Public License).
-amix-gath is a Script for Information Gathering of a Target.
-Version 1.0
+# Amix-Gath
 by </Amix>
 
-amix-gath
-usage: ./amix-gath.sh www.site.com
+# Version:
+Version 1.0
+
+# Install:
+
+You can install cloning this Git Repository
+git clone https://github.com/egrullon/information-gathering.git
+
+# Usage:
+$ ./amix-gath.sh www.site.com
+
+# License:
+Under the GPLv3 Terms (General Public License).
