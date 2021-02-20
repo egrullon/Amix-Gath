@@ -2,7 +2,7 @@
 
 
 # Amix-Gath
-by Amix
+by egrullon {Amix}
 
 
 # Version:
