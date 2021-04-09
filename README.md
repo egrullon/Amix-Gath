@@ -9,12 +9,12 @@ License GPLv3+: GNU GPL version 3 or later <https://www.gnu.org/licenses/gpl-3.0
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software and you are free to change and redistribute it.
 
-# Description: 
-A simple subdomains of websites enumeration tool.
+# Description:
+Passive information gathering tool through the internet.
 
 # Install:
 You can install cloning this Git Repository:
-$ git clone https://github.com/egrullon/information-gathering.git
+$ git clone https://github.com/egrullon/Amix-Gath.git
 
 # Usage:
 $ ./amix-gath.sh www.site.com
